@@ -1,0 +1,43 @@
+html {
+    cursor: url("/Images/CursorSylv.ico"), auto;
+}
+
+
+
+body {
+    background-color: #c0c0c0;
+
+}
+
+header {
+    background-image: url("/Images/HeaderClouds.gif");
+    background-repeat: repeat;
+}
+
+.JadesHeaderGif {
+    align-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+.HeaderText {
+    text-align: center;
+    border: 5px dashed black;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+
+}
+
+nav {
+    text-align: center;
+    display: block;
+}
+
+.CentreBody {
+    text-align: center;
+}
